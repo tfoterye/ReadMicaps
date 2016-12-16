@@ -1,0 +1,9 @@
+D:\my_program\ReadStationData\ReadStationData\ReadStationData\obj\Debug\ReadStationData.csprojResolveAssemblyReference.cache
+D:\my_program\ReadStationData\ReadStationData\ReadStationData\obj\Debug\ReadStationData.Form1.resources
+D:\my_program\ReadStationData\ReadStationData\ReadStationData\obj\Debug\ReadStationData.Properties.Resources.resources
+D:\my_program\ReadStationData\ReadStationData\ReadStationData\obj\Debug\ReadStationData.csproj.GenerateResource.Cache
+D:\my_program\ReadStationData\ReadStationData\ReadStationData\bin\Debug\ReadStationData.exe
+D:\my_program\ReadStationData\ReadStationData\ReadStationData\bin\Debug\ReadStationData.pdb
+D:\my_program\ReadStationData\ReadStationData\ReadStationData\obj\Debug\ReadStationData.Form2.resources
+D:\my_program\ReadStationData\ReadStationData\ReadStationData\obj\Debug\ReadStationData.exe
+D:\my_program\ReadStationData\ReadStationData\ReadStationData\obj\Debug\ReadStationData.pdb
